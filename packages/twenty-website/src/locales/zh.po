@@ -1572,10 +1572,15 @@ msgstr "不丹 🇧🇹"
 msgid "Billing period"
 msgstr "计费周期"
 
-#. js-lingui-id: BpyJwa
+#. js-lingui-id: fztLkj
 #: src/sections/menu/data/menu.ts
-msgid "Blue developer illustration with branching arrows"
-msgstr "蓝色开发者插画，带分叉箭头"
+msgid "Blue code window illustration"
+msgstr ""
+
+#. js-lingui-id: go4Mpk
+#: src/sections/menu/data/menu.ts
+msgid "Blue megaphone illustration"
+msgstr ""
 
 #. js-lingui-id: TVJDFA
 #: src/partner-application/data/partner-country-options.ts
@@ -1627,11 +1632,6 @@ msgstr "以紧凑列表浏览您的记录，现已向所有人开放。对记录
 #: src/partner-application/data/partner-country-options.ts
 msgid "Brunei 🇧🇳"
 msgstr "文莱 🇧🇳"
-
-#. js-lingui-id: 0Nu8Fw
-#: src/client-brief/client-brief-copy.ts
-msgid "Budget range"
-msgstr "预算范围"
 
 #. js-lingui-id: NcjNpp
 #: src/sections/why-twenty-signoff/WhyTwentySignoff.tsx
@@ -4241,6 +4241,11 @@ msgstr "实施合作伙伴"
 msgid "Implementation project (year one, typical)"
 msgstr "实施项目（第一年，典型情况）"
 
+#. js-lingui-id: WuWe27
+#: src/client-brief/client-brief-copy.ts
+msgid "Implementation/migration budget range"
+msgstr ""
+
 #. js-lingui-id: 9P1c4k
 #: src/platform/releases/ReleaseNotes.tsx
 msgid "Implemented skeleton loading to improve user experience by displaying placeholder content while data is being fetched."
@@ -6828,10 +6833,10 @@ msgstr "席位上限"
 msgid "Security"
 msgstr "安全性"
 
-#. js-lingui-id: sioPk8
+#. js-lingui-id: 3I7UcP
 #: src/sections/pricing-plan-table/plan-table-data.ts
-msgid "Security review & DPA"
-msgstr "安全审查与 DPA"
+msgid "Security review & tailored DPA"
+msgstr ""
 
 #. js-lingui-id: nmVU/t
 #: src/sections/customers-hero/CustomersHero.tsx
@@ -8228,13 +8233,6 @@ msgstr "Twenty 让一切变得简单。界面干净、直观，使用体验就�
 msgid "Twenty partner ecosystem"
 msgstr "Twenty 合作伙伴生态系统"
 
-#. js-lingui-id: vD7S1X
-#. placeholder {0}: LATEST_RELEASE.release
-#. placeholder {1}: LATEST_RELEASE.title
-#: src/sections/menu/data/menu.ts
-msgid "Twenty release {0} — {1}"
-msgstr "Twenty 发布 {0} — {1}"
-
 #. js-lingui-id: X1GHuJ
 #: src/platform/routing/static-website-routes.ts
 msgid "Twenty Releases — What's New in the Open Source CRM"
@@ -9164,10 +9162,10 @@ msgstr "也门 🇾🇪"
 msgid "Yes"
 msgstr "是"
 
-#. js-lingui-id: bo6pUs
+#. js-lingui-id: DLTd8S
 #: src/sections/faq/faq.data.ts
-msgid "Yes, with our Apps framework. Scaffold an extension with `npx create-twenty-app` and ship custom objects, server-side logic functions, React components that render inside Twenty’s UI, AI skills and agents, views, and navigation, all in TypeScript, deployable to any workspace."
-msgstr "可以，通过我们的 Apps 框架。使用 `npx create-twenty-app` 搭建一个扩展，并交付自定义对象、服务端逻辑函数、在 Twenty UI 内渲染的 React 组件、AI 技能与代理、视图和导航，全部使用 TypeScript 编写，并可部署到任意工作区。"
+msgid "Yes, with our Apps framework. Scaffold an extension with `npx twenty@latest app init my-app` and ship custom objects, server-side logic functions, React components that render inside Twenty’s UI, AI skills and agents, views, and navigation, all in TypeScript, deployable to any workspace."
+msgstr ""
 
 #. js-lingui-id: yIcBW6
 #: src/sections/faq/faq.data.ts

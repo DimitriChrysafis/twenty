@@ -1572,10 +1572,15 @@ msgstr "Bhutan 🇧🇹"
 msgid "Billing period"
 msgstr "Perioada de facturare"
 
-#. js-lingui-id: BpyJwa
+#. js-lingui-id: fztLkj
 #: src/sections/menu/data/menu.ts
-msgid "Blue developer illustration with branching arrows"
-msgstr "Ilustrație albastră cu un dezvoltator și săgeți ramificate"
+msgid "Blue code window illustration"
+msgstr ""
+
+#. js-lingui-id: go4Mpk
+#: src/sections/menu/data/menu.ts
+msgid "Blue megaphone illustration"
+msgstr ""
 
 #. js-lingui-id: TVJDFA
 #: src/partner-application/data/partner-country-options.ts
@@ -1627,11 +1632,6 @@ msgstr "Răsfoiește înregistrările într-o listă compactă, acum disponibil�
 #: src/partner-application/data/partner-country-options.ts
 msgid "Brunei 🇧🇳"
 msgstr "Brunei 🇧🇳"
-
-#. js-lingui-id: 0Nu8Fw
-#: src/client-brief/client-brief-copy.ts
-msgid "Budget range"
-msgstr "Interval bugetar"
 
 #. js-lingui-id: NcjNpp
 #: src/sections/why-twenty-signoff/WhyTwentySignoff.tsx
@@ -4241,6 +4241,11 @@ msgstr "Parteneri de implementare"
 msgid "Implementation project (year one, typical)"
 msgstr "Proiect de implementare (primul an, tipic)"
 
+#. js-lingui-id: WuWe27
+#: src/client-brief/client-brief-copy.ts
+msgid "Implementation/migration budget range"
+msgstr ""
+
 #. js-lingui-id: 9P1c4k
 #: src/platform/releases/ReleaseNotes.tsx
 msgid "Implemented skeleton loading to improve user experience by displaying placeholder content while data is being fetched."
@@ -6828,10 +6833,10 @@ msgstr "Limită de locuri"
 msgid "Security"
 msgstr "Securitate"
 
-#. js-lingui-id: sioPk8
+#. js-lingui-id: 3I7UcP
 #: src/sections/pricing-plan-table/plan-table-data.ts
-msgid "Security review & DPA"
-msgstr "Security review & DPA"
+msgid "Security review & tailored DPA"
+msgstr ""
 
 #. js-lingui-id: nmVU/t
 #: src/sections/customers-hero/CustomersHero.tsx
@@ -8228,13 +8233,6 @@ msgstr "Twenty face lucrurile simple. Este curat, intuitiv și construit să se 
 msgid "Twenty partner ecosystem"
 msgstr "Ecosistemul de parteneri Twenty"
 
-#. js-lingui-id: vD7S1X
-#. placeholder {0}: LATEST_RELEASE.release
-#. placeholder {1}: LATEST_RELEASE.title
-#: src/sections/menu/data/menu.ts
-msgid "Twenty release {0} — {1}"
-msgstr "Lansarea Twenty {0} — {1}"
-
 #. js-lingui-id: X1GHuJ
 #: src/platform/routing/static-website-routes.ts
 msgid "Twenty Releases — What's New in the Open Source CRM"
@@ -9164,10 +9162,10 @@ msgstr "Yemen 🇾🇪"
 msgid "Yes"
 msgstr "Da"
 
-#. js-lingui-id: bo6pUs
+#. js-lingui-id: DLTd8S
 #: src/sections/faq/faq.data.ts
-msgid "Yes, with our Apps framework. Scaffold an extension with `npx create-twenty-app` and ship custom objects, server-side logic functions, React components that render inside Twenty’s UI, AI skills and agents, views, and navigation, all in TypeScript, deployable to any workspace."
-msgstr "Da, cu framework-ul nostru de Apps. Creează scheletul unei extensii cu `npx create-twenty-app` și livrează obiecte personalizate, funcții de logică pe server, componente React care se redau în interfața Twenty, skill-uri și agenți AI, vizualizări și navigație, toate în TypeScript, care pot fi implementate în orice workspace."
+msgid "Yes, with our Apps framework. Scaffold an extension with `npx twenty@latest app init my-app` and ship custom objects, server-side logic functions, React components that render inside Twenty’s UI, AI skills and agents, views, and navigation, all in TypeScript, deployable to any workspace."
+msgstr ""
 
 #. js-lingui-id: yIcBW6
 #: src/sections/faq/faq.data.ts
